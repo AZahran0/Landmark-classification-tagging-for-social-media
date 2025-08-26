@@ -45,7 +45,7 @@ The goal was to train a model to identify landmarks in images. The project requi
 
 - **Source**: A curated subset of the [Google Landmarks Dataset](https://github.com/cvdfoundation/google-landmark) provided by Udacity as part of the AWS Machine Learning Engineer Nanodegree program.
 - **Classes**: [50 world landmarks](https://github.com/GLGL0x00/Landmark-classification-tagging-for-social-media/blob/main/Class_names.txt)
-- **Images**: ~100 images per class (~5,000 total - for learning purposes)
+- **Images**: ~100 images per class (~5,000 total for training and 1250 images for test - ***for learning purposes***)
 ### 🧪 Preprocessing & Augmentation
 
 Data augmentation pipeline was used to simulate real-world image variations and improve model robustness:
