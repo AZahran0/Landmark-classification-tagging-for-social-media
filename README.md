@@ -1,4 +1,8 @@
 # 🗺️ Landmark Classification Project
+
+## 🔗 Live Demo
+**[View the Live App on Hugging Face Spaces](https://huggingface.co/spaces/Zahran0/Landmark_Classification)**
+
 ## 📌 Description
 This project is part of the **AWS Machine Learning Engineer Nanodegree Program** offered by **Udacity** and **AWS**. It focuses on building and improving Convolutional Neural Networks (CNNs) for landmark classification.
 
